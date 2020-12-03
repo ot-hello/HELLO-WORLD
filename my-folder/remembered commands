@@ -1,0 +1,14 @@
+ls:list all files in directory
+mkdir: make directory
+rmdir: remove directory
+mv: move from one name to a other name of a directory
+rm: remove
+touch: create a file
+echo : repeat what i wright
+print: repeat what i wright
+cat: searching option
+geg: specified word to search for
+|: combines two or more actions to be done by system
+cd: change directory
+cp: copy file from one to a other directory
+
